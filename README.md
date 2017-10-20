@@ -13,3 +13,5 @@ Now you can:
 
 # Notes
 Works with Lumberyard 1.11
+
+https://github.com/aws/Lumberyard
